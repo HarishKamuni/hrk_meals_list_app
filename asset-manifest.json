@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hrk_meals_list_app/static/css/main.5e05f50b.css",
+    "main.js": "/hrk_meals_list_app/static/js/main.c0ba74f5.js",
+    "index.html": "/hrk_meals_list_app/index.html",
+    "main.5e05f50b.css.map": "/hrk_meals_list_app/static/css/main.5e05f50b.css.map",
+    "main.c0ba74f5.js.map": "/hrk_meals_list_app/static/js/main.c0ba74f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e05f50b.css",
+    "static/js/main.c0ba74f5.js"
+  ]
+}
